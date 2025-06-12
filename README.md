@@ -1,5 +1,5 @@
 # Description
-This is a sample of my personal Obsidian vault I use to play RPGs, mostly solo. It contains adventure journals, character sheets and some maps and illustrations. Most of the content is written in English, but some of it is in Portuguese. Feel free to use this for inspiration for your own games, or even as a template if you wish. You will need the Obsidian app to view it properly.
+This is a sample of my personal Obsidian vault I use to play role playing games (i.e. RPGs; e.g. Dungeons & Dragons), mostly solo. It contains adventure journals, character sheets and some maps and illustrations. Most of the content is written in English, but some of it is in Portuguese. Feel free to use this for inspiration for your own games, or even as a template if you wish. You will need the Obsidian app to view it properly.
 
 <img src="media/SciFi_Sample.png" width="720"/>
 
@@ -39,3 +39,13 @@ My preferred way to play RPGs solo is to use a tablet (with a bluetooth keyboard
  - [Mythic GME 2e Android app](https://play.google.com/store/apps/details?id=com.jasonholtdigital.mythicgme2e) - Speeds up playing solo with Mythic. There are iOS and desktop versions as well.
   - [Dice](https://play.google.com/store/apps/details?id=fr.sevenpixels.dice&hl=en_CA) by 7pixels - for customizable 3D dice. `Free!`
   - [Xodo](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=en_CA) PDF reader `Free!`
+
+## How to play solo
+If you are familiar with roleplaying games but never heard of solo RPGs, don't worry it is not as depressing as it sounds! It is a bit of a paradigm shift as the social aspect of playing with a group of people is lost in favor of flexibility and creative freedom. Think of it as writing a novel, assisted by random tables and dice rolls. The role of the game master (GM) is replaced by a set of procedures often called the **Oracle**.
+
+If any of this sounds interesting but you still can't picture how to do it I highly recommend you to watch the incredible YouTube show Me Myself, and Die! by Trevor Devall:
+
+[![Watch an example of solo RPG play](https://i.ytimg.com/vi/I9ag6U3a8eM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCv775P6o59Ayr7U31Cgdl3Zsph6A)](https://youtu.be/I9ag6U3a8eM?si=49zSlcgKtDHkti03)
+
+# Have fun!
+😃
