@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"20d3959dd3adf2fc","type":"group","x":-900,"y":-420,"width":740,"height":520,"label":"Aldeia Cervo Valle"},
+		{"id":"c799e59c9f20286e","type":"group","x":-1380,"y":-440,"width":400,"height":400,"label":"Inverno Remoto"},
+		{"id":"87fdbaf9250a9e0c","type":"text","text":"## Aldric\nChefe da vila Cervo Valle\n","x":-852,"y":-379,"width":252,"height":110},
+		{"id":"abfd73ca4f119367","type":"text","text":"Esposa (falecida)","x":-580,"y":-269,"width":185,"height":60},
+		{"id":"5a0dc28e1011a576","type":"text","text":"## Mirain\nPediu auxílio aos aventureiros, para que procurassem seu irmão em Cervo Valle\n","x":-1360,"y":-420,"width":360,"height":151},
+		{"id":"fd8a024e6c155dd9","type":"text","text":"A aldeia foi assolada por um ataque de kobolds","x":-440,"y":-409,"width":254,"height":60,"color":"2"},
+		{"id":"830e9bc9a2525b8a","type":"text","text":"### Joseph\nTaverneiro","x":-440,"y":-120,"width":235,"height":105},
+		{"id":"02246c72c9fac46d","type":"text","text":"### Willis\nMostrou o caminho para a toca dos kobolds","x":-852,"y":-187,"width":252,"height":120}
+	],
+	"edges":[
+		{"id":"6536a23dbda1455c","fromNode":"5a0dc28e1011a576","fromSide":"right","toNode":"87fdbaf9250a9e0c","toSide":"left","label":"irmão"},
+		{"id":"14cfb6e4530e3fe9","fromNode":"87fdbaf9250a9e0c","fromSide":"right","toNode":"abfd73ca4f119367","toSide":"top","label":"esposa"},
+		{"id":"eb9045693638e6cd","fromNode":"87fdbaf9250a9e0c","fromSide":"bottom","toNode":"02246c72c9fac46d","toSide":"top","label":"filho"}
+	]
+}

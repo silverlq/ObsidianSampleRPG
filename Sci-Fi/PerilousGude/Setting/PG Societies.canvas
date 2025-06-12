@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"bac89783688376d9","type":"text","text":"# Green Alliance (GA)\nA group of neighboring planets or star systems that unite for mutual defense, trade, and resource sharing\n>70% kumino, 30% human","x":-660,"y":-20,"width":380,"height":260},
+		{"id":"337038ae5d764aa2","type":"text","text":"# Liberation Army (LA)\nA collection of dissident groups, freedom fighters, and insurgents who seeks to overthrow the authoritarian rule of Atlatech.\n\n>50% human, 40% kumino, 10% zotaru","x":-700,"y":-580,"width":340,"height":280},
+		{"id":"962b81a0ad9a4f08","type":"text","text":"# Atlatech Conglomerate (AC)\nA business alliance that controls resources, trade, and tech.\n>60% atladon, 35% human, 5% zotaru\n>","x":0,"y":-520,"width":340,"height":240},
+		{"id":"2afa723b2adf9ef3","type":"text","text":"# Light-seeker’s Guild (LG)\nMillians have been driven away from their home world by the Atlatech Conglomerate, and now seek a new home.\n> 85% millian, 15% human","x":20,"y":-20,"width":380,"height":260}
+	],
+	"edges":[
+		{"id":"8e3952f00cf5aa1e","fromNode":"bac89783688376d9","fromSide":"top","toNode":"962b81a0ad9a4f08","toSide":"left","toEnd":"none","label":"rivals"},
+		{"id":"90e7bb72a038cf1a","fromNode":"337038ae5d764aa2","fromSide":"right","toNode":"962b81a0ad9a4f08","toSide":"left","toEnd":"none","label":"enemies"},
+		{"id":"1fab181594c41654","fromNode":"337038ae5d764aa2","fromSide":"bottom","toNode":"bac89783688376d9","toSide":"top","toEnd":"none","label":"wary"},
+		{"id":"ca01f556034703d1","fromNode":"962b81a0ad9a4f08","fromSide":"bottom","toNode":"2afa723b2adf9ef3","toSide":"top","toEnd":"none","label":"colonizer and indigenous"},
+		{"id":"a2da72c4fd062c1c","fromNode":"bac89783688376d9","fromSide":"right","toNode":"2afa723b2adf9ef3","toSide":"left","toEnd":"none","label":"protection for resources"},
+		{"id":"4458138367ba9605","fromNode":"337038ae5d764aa2","fromSide":"right","toNode":"2afa723b2adf9ef3","toSide":"left","toEnd":"none","label":"protection for resources"}
+	]
+}

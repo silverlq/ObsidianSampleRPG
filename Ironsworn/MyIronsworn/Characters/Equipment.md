@@ -1,0 +1,7 @@
+- Bow
+- Arrows
+- Quiver
+- Sleep-sack
+- Knife
+- Dried meat
+- Talisman

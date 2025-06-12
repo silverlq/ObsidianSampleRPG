@@ -1,0 +1,3 @@
+Joshua Baron is a bartender at the [[Vagabond]], and an ex-member of the [[Red Road Riders]] MC. He is always well dressed with a vest and a white shirt. His eyes are neon green and his face is pale. Joshua is a decent hacker, and he enjoys surfing the cyberspace to relax after work.
+Joshua and [[Makai]] are friends and have worked together in the past as members of the MC.
+![[Draw_Joshua.JPG|500]]

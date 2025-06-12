@@ -1,0 +1,7 @@
+Joshua had monitored [[Tago Niagara]]'s movements and communication for a week, and had narrowed down a couple of potential places that Tago visited often that could be where the lab was located. Joshua also confirmed that Tago knew where the lab was located, since some of his messages explicitly mentioned "meeting the scientists for a review" and to "ensure the wolves bring the chemicals unspoiled".
+
+However, before investigating those places Makai thought they should seek some help. There was one more ex-member of the [[Red Road Riders]] that could assist them and he hadn't reached out to yet. His name was [[Ashton Varif]], an expert in explosives. Makai called Ashton the morning after the drone strike on [[Jenova]].
+
+"Hey Ashton, this is Makai from Jenova, remember me?" Makai said. "Makai! It has been ages since I heard from you. I saw Jenova was under some heat, are you fellas doing alright?" Ashton replied with some excitement in his voice. "We were hit hard, but we'll manage. Ashton, I know who is responsible for this, and I think they will hurt more people soon. Joshua and I found their base of operations and we need you to help us blow it up" Makai said hopeful. "Ah, listen mate, I'd love to help but things have not been good since I got out of jail. In fact my whole life has gone to shit because of me blowing things up in the first place" Ashton replied with some regret in his voice. "Let's meet in person to talk this over" suggested Makai. "Sure bud, meet me at the Outlaws tonight. You are paying" he replied.
+
+Next: [[21 party crash]]

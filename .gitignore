@@ -1,0 +1,4 @@
+#exclude workspace cache
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json

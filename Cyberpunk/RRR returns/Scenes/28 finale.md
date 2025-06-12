@@ -1,0 +1,7 @@
+When Joshua found his way out of the cyberspace and returned to his physical body in the mainframe room he saw the carcasses of many deactivated robots. Makai and Ashton were there both bleeding. Yurei wept over her sister's body. Mizu had received too much physical and mental strain and was dead.
+
+Joshua explained what had happened in the cyberspace. "Komarov is dead. Mizu's virus killed it" he said. "That explains why all the robots were deativated" said Makai. "We have to get out of here, the robots may be down, but I got the feeling that some of the mad wolves might still be around".
+
+Ashton's suspicion turned out to be right, and on their way out of the building one last group of mad wolves clashed with them on the stairwell. They fought bravely and ended up defeating the wolves, but Joshua got mortally wounded in the fight and died. Makai cried as he held his friend one last time.
+
+Makai, Ashton and Yurei escaped the building alive. The rain was still falling outside. Cars passed by and people walked outside unaware of what had been going on underground. Makai and the others had stopped the AI known as Komarov, and they had defeated the mad wolves who the AI had been leading. However, they had to pay a hefty price to achive those goals. They lost dear friends and family along the way. The greedy corporations remained and so Makai's fight was not over, but at least the battle had been won.

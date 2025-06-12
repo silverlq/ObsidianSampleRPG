@@ -1,0 +1,1 @@
+The mad wolf gang is a group of robbers and scammers that is financed by the [[Sentricus]] corporation 

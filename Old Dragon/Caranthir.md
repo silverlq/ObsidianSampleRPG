@@ -1,0 +1,4 @@
+Relacionado: [[Personagens OldDragon.canvas|Personagens OldDragon]], [[Quest Cervo Valle.canvas|Quest Cervo Valle]]
+
+
+Caranthir é um elfo [[paladino da tríade]], residente de Inverno Remoto. Nasceu e foi criado em uma aldeia élfica na Floresta de Inverno Remoto até a adolescência, quando a vila foi incendiada durante uma invasão demoníaca. Sua mãe [[Lauriel]] fugiu com o jovem Caranthir para a cidade de Inverno Remoto, onde eles foram recebidos como refugiados em templos humanos. Quando adulto, Caranthir se juntou à Ordem da Tríade, sob o comando de um humano paladino veterano chamado [[Bregor]], o prateado.

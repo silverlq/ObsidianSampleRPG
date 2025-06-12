@@ -1,0 +1,2 @@
+Tyson Vale is a retired member of the [[Red Road Riders]]. He was the highest ranking member after the passing of [[Atohi]] Sparks. Tyson is a valued member of his community and strives to bring back joy and peace to it, having chosen to leave his days of violence behind him. He has a dog named Blaze.
+![[Draw_Tyson.JPG|500]]

@@ -1,0 +1,1 @@
+The village master is called [[Eleri]]. It is a village of woodsmen, hunters and gatherers. It is located near [[Wolf's Pass]], which is used often for trade caravans going north. Travellers often stop by this village on their journeys between the Havens and the mountains to the north.

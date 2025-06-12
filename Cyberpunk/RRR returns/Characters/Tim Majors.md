@@ -1,0 +1,2 @@
+Tim Majors is a mechanic who owns the Majors Repair Shop at the Array district of [[High Banks]]. Tim wears trendy colorful tracksuits and has pierced ears. His son [[Milo Majors]] is often seen playing in the shop. Tim was good friends with [[Atohi]] and often would service his motorcycle back in the golden days of the [[Red Road Riders]].
+![[Draw_Tim.jpg|500]]

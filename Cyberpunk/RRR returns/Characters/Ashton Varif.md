@@ -1,0 +1,2 @@
+Ashton is an explosives expert and ex-member of the [[Red Road Riders]] MC. He is a short red haired man with a square jaw and golden teeth under his thick mustache. He was encarcerated for arson and destruction of property before [[Atohi]] died. He was released a few years ago and has since lost his property and most of his belongings and has been sleeping on the streets with other homeless. He resents his ex-wife for abandoning him and himself for losing everything he had.
+![[Draw_Ashton.jpg|500]]

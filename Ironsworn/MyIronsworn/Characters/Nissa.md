@@ -1,0 +1,1 @@
+Crippled village mystic and [[Nadros]]' mother. She searches for a cure that will allow her to walk again. Her legs were paralyzed by the Basilisk.

@@ -1,0 +1,7 @@
+Makai picked up an access token from the corpse of one of the men he had shot, then once again approached the metal door at the entrance. The door unlocked with the token and he walked inside. He smelled mold in the air. The room was dark and damp, there were crumbs and food remnants scattered throughout the floor. He went down a stairwell littered with garbage and then heard the muffled voices of men talking: "...and then I pulled her by the hair as she was screaming, and she was a nice girl to me after that...".
+
+Following the sound of the conversation, Makai approached a door and gently opened it only enough to see inside. A thick smoke filled the air. He saw four men inside sitting on an old couch smoking. He waited a while to hear what they were saying, they only bragged about their successful scams and mocked the poor souls they terrorized that day.
+
+Then, one of them stood up, Makai recognized him as the tall man he had seen earlier at the cafe. The man walked to a countertop and opened a bottle of Safari Lager. He then looked down, grabbed something from the floor and said: "Silvio, you ass! Did you drop this here?". He was holding a jump drive. "Didn't the corpo tell you to take good care of this? Argh, you are wasted already aren't you? It is not even noon." He then placed it in his pocket. At that moment he looked towards Makai's door and immediately noticed there was someone watching: "who is there?".
+
+Next: [[03 alley chase]]

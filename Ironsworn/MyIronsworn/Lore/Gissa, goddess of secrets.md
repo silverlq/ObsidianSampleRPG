@@ -1,0 +1,2 @@
+Gissa is the goddess keeper of all secrets. It is said that she knows the true self of all living peoples.
+She loves secrets dearly, and the act of sharing secrets. However, she hates when secrets are shared without consent.

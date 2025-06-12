@@ -1,0 +1,3 @@
+Red-fist Gwendolin is a temperamental and often unpredictable, but strong and revered figure of the [[Scarlet Hills]]. She is a middle-aged woman with white hair and neon blue eyes under a dark hood. Her arms are bright chrome and her knuckles are ruby red. She often wears her [[Red Road Riders]] jacket rides her old motorcycle.
+She is wanted in the city of [[High Banks]] for many crimes, so she rarely goes there anymore. She is looking for a rare and powerful daemon called the [[Eye of Ra]] that could wipe her crimes and those of her four children from the police database.
+![[Draw_Gwendolin.jpg|500]]

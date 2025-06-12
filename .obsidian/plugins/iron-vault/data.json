@@ -1,0 +1,40 @@
+{
+  "graphicalOracleDice": true,
+  "graphicalActionDice": true,
+  "actionDieColor": "#8f8f8f",
+  "challengeDie1Color": "#8b5cf5",
+  "challengeDie2Color": "#8b5cf5",
+  "oracleDiceColor": "#9d6910",
+  "cursedDieColor": "#017403",
+  "enableCursedDie": true,
+  "cursedDieSides": 10,
+  "alwaysPromptActiveCharacter": false,
+  "defaultProgressTrackFolder": "Progress",
+  "defaultClockFolder": "Clocks",
+  "defaultCharactersFolder": "Characters",
+  "defaultCampaignContentFolder": "Custom Content",
+  "progressTrackTemplateFile": "",
+  "characterTemplateFile": "",
+  "clockTemplateFile": "",
+  "promptForRollsInMoves": false,
+  "promptForRollsInOracles": false,
+  "useCharacterSystem": true,
+  "collapseMoves": false,
+  "showMechanicsToggle": false,
+  "hideMechanics": false,
+  "inlineOnCreation": false,
+  "useHomebrew": false,
+  "homebrewPath": "Homebrew",
+  "dataswornVersion": "0.1.0",
+  "alwaysRecordActor": false,
+  "useLegacyRoller": false,
+  "diceRollerDebug": false,
+  "diceHideAfterSecs": 0,
+  "diceAllowClickthrough": false,
+  "useLegacyMoveModal": false,
+  "emitter": {
+    "debug": {
+      "enabled": false
+    }
+  }
+}

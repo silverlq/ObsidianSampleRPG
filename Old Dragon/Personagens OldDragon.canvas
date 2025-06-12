@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d7b0109841a8797f","type":"group","x":260,"y":-400,"width":400,"height":440,"label":"Inverno Remoto"},
+		{"id":"abf4da39b5e5fa01","type":"group","x":-600,"y":-380,"width":420,"height":320,"label":"Torre do crepúsculo"},
+		{"id":"16b74e8a0026199c","type":"text","text":"## Malchior\nArcanista superior","x":-580,"y":-360,"width":200,"height":102},
+		{"id":"e3bfdf64450308bf","type":"text","text":"# [[Gerald]]\nPersonagem do **Ganso**. Humano clérigo de [[Lathander]]\n\n","x":-121,"y":-155,"width":293,"height":135,"color":"3"},
+		{"id":"76deaea9f27e44f6","type":"text","text":"## Bregor\nHumano paladino da tríade\n","x":300,"y":-375,"width":263,"height":117},
+		{"id":"2f2ce59a2a2c655d","type":"text","text":"## ???\nHumano sacerdote de Lathander","x":-99,"y":-375,"width":250,"height":117},
+		{"id":"dcee06d29bff2c35","type":"text","text":"# [[Vailin]]\nPersonagem do **Berna**. Meio-elfo druida.","x":312,"y":105,"width":240,"height":115,"color":"3"},
+		{"id":"80b21a70866d6ec1","type":"text","text":"# [[Elensil]]\nPersonagem do **Nava**. Mago elfo.","x":-460,"y":-205,"width":227,"height":134,"color":"3"},
+		{"id":"d0def794c140fef5","type":"text","text":"# [[Gundar]]\nPersonagem do **Farna**. Anão guerreiro.","x":-460,"y":52,"width":228,"height":132,"color":"3"},
+		{"id":"b3a8016f98c3f32d","type":"text","text":"# [[Lorian]]\nPersonagem do **Leo**. Meio-elfo ladino.","x":-121,"y":75,"width":240,"height":145,"color":"3"},
+		{"id":"e88bcc13dd94790c","type":"text","text":"# [[Caranthir]]\nMeu personagem. Elfo [[paladino da tríade]].","x":347,"y":-138,"width":260,"height":134,"color":"3"}
+	],
+	"edges":[
+		{"id":"09df40173cd57766","fromNode":"80b21a70866d6ec1","fromSide":"top","toNode":"16b74e8a0026199c","toSide":"bottom","label":"mentor"},
+		{"id":"b221b603f8176575","fromNode":"e88bcc13dd94790c","fromSide":"left","toNode":"e3bfdf64450308bf","toSide":"right","label":"colega"},
+		{"id":"20c60742ba0011b5","fromNode":"e3bfdf64450308bf","fromSide":"top","toNode":"2f2ce59a2a2c655d","toSide":"bottom","label":"mentor"},
+		{"id":"822fbb5bc3817b31","fromNode":"e88bcc13dd94790c","fromSide":"top","toNode":"76deaea9f27e44f6","toSide":"bottom","label":"mentor"},
+		{"id":"9990251862d8e4bf","fromNode":"76deaea9f27e44f6","fromSide":"left","toNode":"2f2ce59a2a2c655d","toSide":"right","label":"amigo"}
+	]
+}

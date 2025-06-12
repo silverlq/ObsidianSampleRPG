@@ -1,0 +1,16 @@
+Makai arrived at the Outlaws bar as the sun was setting. He could hear the sound of bass beating through the walls when he approached the door. It was a reasonably well kept establishment, with a strong smell of fruity ale and heavy techno music playing in the background. There were many guests already present, some dancing near a DJ and some at the bar enjoying some ale and socializing. A bouncer at the front checked Makai for any weapons, which he didn't bring, and then led him inside.
+
+Makai walked inside and saw [[Ashton Varif]] in the dance floor, dancing next to a lady who was wearing a sparkly party dress. The lady's friends were laughing and pointing at Ashton. The lady in the sparkly dress was visibly quite drunk, and slapped Ashton in the face then walked with her friends towards the bathroom.
+As Makai approached Ashton to greet him, and as he got to see him up close, he noticed that Ashton was wearing dirty torn clothes and that his face was covered in dirt. He looked like a bum.
+
+"Makai! Old friend" Ashton said with a goofy smile. He was clearly drunk himself as his breath stunk of cheap booze. "This is my favorite song, the beat is sick!" He said and started flailing his arms and rocking his head. "Ashton! Let's talk at the bar!" Makai screamed and tapped his friend over the shoulder trying to talk over the loud music.
+
+Makai tried to get Ashton to listen, but he was too drunk to pay attention or have a serious talk. "We haven't partied together in years, bro. Just enjoy!" said Ashton. Makai wished he could enjoy himself and relax that night, but the thought of his sister suffering and the pressing issue of the bioweapon and Jenova were too much for him to handle. He sat at the bar and ordered a beer.
+
+After an hour and a half of partying, Ashton got into a fight with another man for hitting on his girlfriend, then got kicked out of the bar by the bouncer. Makai followed him outside. "Living the good life, ey?" asked Makai, ironically, while Ashton was puking on the floor. "Sorry if I seem out of it, bro. You would be too had you lost everything like I did" said Ashton, with a more sober tone. "Ready to talk business?" asked Makai. "Sure bro" he replied.
+
+They sat at a bench and had some hot-dogs and energy drinks from a food stand next to some AC vents emitting a thick cloud of vapor from underground. "I need you for this mission, Ashton. I'm trying to bring the MC members back together and put an end to the wolves for good. I'll pay you and help you get back on your feet" Makai said.
+
+"I don't know man. I got rusty on the streets, and even if this doesn't kill me, it won't bring my old life back. My life is just fucked." said Ashton, looking inside the can of his drink. Makai responded: "I believe in you, Ashton. You were great at your trade and just got unlucky in life. There's still time to turn things around. This is your chance to start a new life!". Ashton looked deep into Makai's eyes and said: "dude! If I'm going to die at least give me a glorious end. Sure, I'm in, what the heck. Oh and can I crash at your place?" and Makai replied "only if you promise to shower, bro".
+
+Next: [[22 concrete delve]]

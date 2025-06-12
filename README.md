@@ -1,0 +1,1 @@
+This is a sample of my personal Obsidian vault I use to play RPGs, mostly solo. It contains adventure journals, character sheets and some maps and illustrations. Most of the content is written in English, but some of it is in Portuguese. Feel free to use this for inspiration for your own games, or even as a template if you wish.
