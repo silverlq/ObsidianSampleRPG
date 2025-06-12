@@ -16,12 +16,14 @@ I use the iconize Obsidian plugin with the two predefined packs `lucide-icons` a
 ## RPG Systems & Supplements
 The RPG systems I used in this vault include:
  - [Savage Worlds Adventure Edition](https://www.drivethrurpg.com/en/product/261539/savage-worlds-adventure-edition) (SWADE) - Setting-agnostic system
-  - [Ironsworn](https://www.drivethrurpg.com/en/product/238369/ironsworn) - Low fantasy solo RPG. `Free!`
+  - [Ironsworn](https://www.drivethrurpg.com/en/product/238369/ironsworn) - Low fantasy solo RPG `Free!`
   - [Offworlders](https://www.drivethrurpg.com/en/product/257632/offworlders) - Rules-light space opera `Free!`
-  - [FIST: Ultra Edition](https://www.drivethrurpg.com/en/product/306921/fist-ultra-edition) - Paranormal mercenaries.
+  - [FIST: Ultra Edition](https://www.drivethrurpg.com/en/product/306921/fist-ultra-edition) - Paranormal mercenaries in tactical espionage action.
 
 And the supplements:
- - [The Perilous Void](https://www.drivethrurpg.com/en/product/502848/the-perilous-void)
- - [Sprawlrunners](https://www.drivethrurpg.com/en/product/334278/sprawlrunners) - Supplement for SWADE
- - [The Book of Random Tables: Cyberpunk](https://www.drivethrurpg.com/en/product/307740/the-book-of-random-tables-cyberpunk)
+ - [Mythic Game Master Emulator](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition) (GME) 2nd edition. This is what I use the most to assist playing RPG solo.
+   - [Mythic GME 2e Android app](https://play.google.com/store/apps/details?id=com.jasonholtdigital.mythicgme2e) - Speeds up playing solo with Mythic. There are iOS and desktop versions as well.
+ - [The Perilous Void](https://www.drivethrurpg.com/en/product/502848/the-perilous-void) - Spectacular science-fiction generation tools. Cannot recommend this enough!
+ - [Sprawlrunners](https://www.drivethrurpg.com/en/product/334278/sprawlrunners) - Cyberpunk supplement for SWADE.
  - [Augmented Reality](https://www.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) - The Holistic City Kit For Cyberpunk Games `Free!`
+ - [The Book of Random Tables: Cyberpunk](https://www.drivethrurpg.com/en/product/307740/the-book-of-random-tables-cyberpunk)
