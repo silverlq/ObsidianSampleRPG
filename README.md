@@ -22,8 +22,20 @@ The RPG systems I used in this vault include:
 
 And the supplements:
  - [Mythic Game Master Emulator](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition) (GME) 2nd edition. This is what I use the most to assist playing RPG solo.
-   - [Mythic GME 2e Android app](https://play.google.com/store/apps/details?id=com.jasonholtdigital.mythicgme2e) - Speeds up playing solo with Mythic. There are iOS and desktop versions as well.
  - [The Perilous Void](https://www.drivethrurpg.com/en/product/502848/the-perilous-void) - Spectacular science-fiction generation tools. Cannot recommend this enough!
  - [Sprawlrunners](https://www.drivethrurpg.com/en/product/334278/sprawlrunners) - Cyberpunk supplement for SWADE.
  - [Augmented Reality](https://www.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) - The Holistic City Kit For Cyberpunk Games `Free!`
  - [The Book of Random Tables: Cyberpunk](https://www.drivethrurpg.com/en/product/307740/the-book-of-random-tables-cyberpunk)
+
+# Usage
+My preferred way to play RPGs solo is to use a tablet (with a bluetooth keyboard) so that I can relax in bed at the end of the day. Having everything displayed on the same screen - with the character sheet, maps, and journal in Obsidian, and the Mythic app and dice roller docked on the side - is fantastic. I also usually keep supplement PDFs in a minimized floating window.
+
+<img src="media/SciFi_Usage.jpeg" width="720"/>
+
+*Sample usage of this vault in an Android tablet alongside the Mythic GME app and a dice roller.*
+
+## Apps
+ - [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian&hl=en_CA) `Free!`
+ - [Mythic GME 2e Android app](https://play.google.com/store/apps/details?id=com.jasonholtdigital.mythicgme2e) - Speeds up playing solo with Mythic. There are iOS and desktop versions as well.
+  - [Dice](https://play.google.com/store/apps/details?id=fr.sevenpixels.dice&hl=en_CA) by 7pixels - for customizable 3D dice. `Free!`
+  - [Xodo](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=en_CA) PDF reader `Free!`
